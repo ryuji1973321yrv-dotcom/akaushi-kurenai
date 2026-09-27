@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2a0e10"/>
+  <rect x="70" y="140" width="660" height="360" rx="20" fill="#3a2418" stroke="#5a3a24" stroke-width="6"/>
+  <g transform="translate(130 290)"><path d="M0 0 Q90 30 180 0 L160 110 Q90 130 20 110Z" fill="#111"/><ellipse cx="90" cy="0" rx="90" ry="26" fill="#f8f4ec"/><ellipse cx="90" cy="-10" rx="70" ry="30" fill="#fffaf2"/></g>
+  <g transform="translate(360 300)"><path d="M0 0 Q80 26 160 0 L144 90 Q80 110 16 90Z" fill="#7a1420"/><ellipse cx="80" cy="0" rx="80" ry="22" fill="#b8763a"/><rect x="70" y="-12" width="30" height="14" rx="3" fill="#f3e2d6"/><g fill="#6d9a4a"><circle cx="56" cy="0" r="5"/><circle cx="110" cy="4" r="4"/></g></g>
+  <g transform="translate(560 200)"><rect width="120" height="90" rx="10" fill="#f3e2d6"/><rect x="14" y="20" width="44" height="22" rx="6" fill="#d8b040"/><rect x="64" y="22" width="40" height="18" rx="6" fill="#6d9a4a"/><rect x="30" y="52" width="60" height="16" rx="6" fill="#b8323a"/></g>
+  <rect x="560" y="360" width="130" height="10" rx="5" fill="#c8893a" transform="rotate(-8 620 365)"/>
+  <rect x="560" y="380" width="130" height="10" rx="5" fill="#c8893a" transform="rotate(-8 620 385)"/>
+</svg>

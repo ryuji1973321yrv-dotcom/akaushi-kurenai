@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1030"/><stop offset="1" stop-color="#3a1a24"/></linearGradient>
+    <radialGradient id="lamp" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ffcf7a" stop-opacity=".9"/><stop offset="1" stop-color="#ffcf7a" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#n)"/>
+  <rect x="0" y="0" width="120" height="520" fill="#241828"/><rect x="680" y="40" width="120" height="480" fill="#241828"/>
+  <g fill="#ffcf7a" opacity=".3"><rect x="20" y="60" width="30" height="40"/><rect x="70" y="60" width="30" height="40"/><rect x="20" y="140" width="30" height="40"/><rect x="700" y="100" width="30" height="40"/><rect x="750" y="180" width="30" height="40"/></g>
+  <rect x="140" y="110" width="520" height="410" fill="#2a1a14"/>
+  <rect x="140" y="110" width="520" height="80" fill="#150708"/>
+  <text x="400" y="167" text-anchor="middle" font-family="serif" font-size="40" font-weight="700" fill="#efd08a" letter-spacing="6">あか牛料理 くれない</text>
+  <rect x="190" y="230" width="420" height="290" fill="#3a2418"/>
+  <g fill="#ffcf7a" opacity=".55"><rect x="210" y="260" width="110" height="160" rx="4"/><rect x="480" y="260" width="110" height="160" rx="4"/></g>
+  <g stroke="#2a1a14" stroke-width="4"><path d="M265 260 V420 M210 340 H320 M535 260 V420 M480 340 H590"/></g>
+  <rect x="336" y="220" width="128" height="120" fill="#9c1c28"/>
+  <g stroke="#7a1420" stroke-width="3"><path d="M368 220 V340 M400 220 V340 M432 220 V340"/></g>
+  <text x="400" y="296" text-anchor="middle" font-family="serif" font-size="40" font-weight="700" fill="#faf3ec">紅</text>
+  <rect x="345" y="340" width="110" height="180" fill="#1a0c08"/>
+  <circle cx="165" cy="250" r="60" fill="url(#lamp)"/><rect x="152" y="224" width="26" height="54" rx="12" fill="#e8b060"/>
+  <circle cx="635" cy="250" r="60" fill="url(#lamp)"/><rect x="622" y="224" width="26" height="54" rx="12" fill="#e8b060"/>
+  <rect x="0" y="520" width="800" height="80" fill="#1a1014"/>
+  <path d="M0 540 H800" stroke="#3a2a30" stroke-width="3"/>
+</svg>

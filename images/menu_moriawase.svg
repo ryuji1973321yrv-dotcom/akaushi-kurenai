@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2a0e10"/>
+  <rect x="110" y="120" width="580" height="380" rx="24" fill="#111" stroke="#c8893a" stroke-opacity=".4" stroke-width="3"/>
+  <g transform="translate(160 170)"><rect width="140" height="80" rx="16" fill="#b8323a"/><path d="M10 30 q60 -10 120 6" stroke="#f3e2d6" stroke-width="4" fill="none" opacity=".35"/></g>
+  <g transform="translate(320 160)"><rect width="150" height="90" rx="18" fill="#9c1c28"/><path d="M14 50 q60 -16 120 4" stroke="#f3e2d6" stroke-width="3" fill="none" opacity=".3"/></g>
+  <g transform="translate(490 180)"><rect width="140" height="80" rx="16" fill="#c8404a"/></g>
+  <g transform="translate(170 290)"><rect width="150" height="84" rx="16" fill="#a82832"/><path d="M12 40 q60 -14 126 2" stroke="#f3e2d6" stroke-width="3" fill="none" opacity=".3"/></g>
+  <g transform="translate(340 290)"><rect width="140" height="86" rx="16" fill="#b8323a"/></g>
+  <g transform="translate(500 290)"><rect width="130" height="80" rx="16" fill="#8a1e28"/></g>
+  <g font-family="serif" font-size="22" fill="#e3b062" opacity=".9">
+    <text x="200" y="440">ランプ</text><text x="380" y="440">ヒレ</text><text x="520" y="440">シンタマ</text>
+  </g>
+</svg>

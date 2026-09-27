@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2a0e10"/>
+  <ellipse cx="400" cy="330" rx="330" ry="170" fill="#151515"/>
+  <ellipse cx="400" cy="320" rx="300" ry="150" fill="#262626"/>
+  <ellipse cx="380" cy="300" rx="170" ry="100" fill="#5a2410"/>
+  <ellipse cx="380" cy="290" rx="160" ry="90" fill="#6b2e14"/>
+  <path d="M250 270 q130 -70 260 0 q-20 60 -130 70 q-110 -10 -130 -70z" fill="#4a1a0a" opacity=".85"/>
+  <g fill="#8a3a1a" opacity=".6"><circle cx="300" cy="250" r="6"/><circle cx="360" cy="230" r="5"/><circle cx="440" cy="245" r="6"/><circle cx="410" cy="300" r="5"/></g>
+  <circle cx="590" cy="350" r="36" fill="#e38a2a"/>
+  <rect x="560" y="236" width="90" height="30" rx="14" fill="#6d9a4a" transform="rotate(20 600 250)"/>
+  <ellipse cx="200" cy="360" rx="44" ry="26" fill="#e8c86a"/>
+  <g fill="none" stroke="#e3b062" stroke-width="4" stroke-linecap="round" opacity=".3"><path d="M340 180 q-12 -34 8 -60 q18 -26 0 -52"/><path d="M430 180 q-12 -34 8 -60 q18 -26 0 -52"/></g>
+</svg>

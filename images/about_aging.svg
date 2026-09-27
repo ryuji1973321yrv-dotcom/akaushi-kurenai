@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2a30"/><stop offset="1" stop-color="#0c1418"/></linearGradient>
+    <linearGradient id="meat" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a1e28"/><stop offset="1" stop-color="#4a0c14"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <g stroke="#9aa8ae" stroke-width="6"><path d="M80 170 H720"/><path d="M80 430 H720"/></g>
+  <g stroke="#6a787e" stroke-width="3"><path d="M80 180 H720 M80 440 H720"/></g>
+  <rect x="130" y="80" width="170" height="90" rx="30" fill="url(#meat)"/><rect x="142" y="92" width="146" height="18" rx="9" fill="#f3e2d6" opacity=".55"/>
+  <rect x="340" y="70" width="200" height="100" rx="34" fill="url(#meat)"/><rect x="352" y="84" width="176" height="16" rx="8" fill="#f3e2d6" opacity=".5"/>
+  <rect x="570" y="90" width="140" height="80" rx="28" fill="url(#meat)"/>
+  <rect x="160" y="340" width="220" height="90" rx="32" fill="url(#meat)"/><rect x="174" y="352" width="192" height="16" rx="8" fill="#f3e2d6" opacity=".5"/>
+  <rect x="420" y="330" width="230" height="100" rx="36" fill="url(#meat)"/>
+  <g transform="translate(560 470)">
+    <rect width="170" height="80" rx="8" fill="#0a0f12" stroke="#6ab0d0" stroke-opacity=".5" stroke-width="2"/>
+    <text x="85" y="36" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="700" fill="#9fd4ea">1.5°C</text>
+    <text x="85" y="64" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#9fd4ea" opacity=".8">湿度 80%</text>
+  </g>
+  <g fill="#6ab0d0" opacity=".25"><circle cx="90" cy="520" r="3"/><circle cx="200" cy="500" r="2"/><circle cx="330" cy="540" r="3"/><circle cx="460" cy="510" r="2"/></g>
+</svg>
